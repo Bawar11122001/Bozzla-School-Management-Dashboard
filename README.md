@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Bozzla School Management Dashboard
 
 ## Getting Started
 
